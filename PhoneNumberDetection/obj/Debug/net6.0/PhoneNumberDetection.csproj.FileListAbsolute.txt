@@ -1,0 +1,79 @@
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\appsettings.Development.json
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\appsettings.json
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\PhoneNumberDetection.staticwebassets.runtime.json
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\PhoneNumberDetection.exe
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\PhoneNumberDetection.deps.json
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\PhoneNumberDetection.runtimeconfig.json
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\PhoneNumberDetection.dll
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\PhoneNumberDetection.pdb
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\PhoneNumberDetection.csproj.AssemblyReference.cache
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\PhoneNumberDetection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\PhoneNumberDetection.AssemblyInfoInputs.cache
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\PhoneNumberDetection.AssemblyInfo.cs
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\PhoneNumberDetection.csproj.CoreCompileInputs.cache
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\PhoneNumberDetection.MvcApplicationPartsAssemblyInfo.cache
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\PhoneNumberDetection.RazorAssemblyInfo.cache
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\PhoneNumberDetection.RazorAssemblyInfo.cs
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\staticwebassets\msbuild.PhoneNumberDetection.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\staticwebassets\msbuild.build.PhoneNumberDetection.props
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PhoneNumberDetection.props
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PhoneNumberDetection.props
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\staticwebassets.build.json
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\staticwebassets.development.json
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\scopedcss\bundle\PhoneNumberDetection.styles.css
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\scopedcss\projectbundle\PhoneNumberDetection.bundle.scp.css
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\PhoneNumberDetection.dll
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\refint\PhoneNumberDetection.dll
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\PhoneNumberDetection.pdb
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\PhoneNumberDetection.genruntimeconfig.cache
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\ref\PhoneNumberDetection.dll
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\xunit.runner.visualstudio.testadapter.dll
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\xunit.abstractions.dll
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\xunit.assert.dll
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\xunit.core.dll
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\xunit.execution.dotnet.dll
+D:\Phone\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\PhoneNumberDetection.csproj.CopyComplete
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\appsettings.Development.json
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\appsettings.json
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\xunit.runner.visualstudio.testadapter.dll
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\PhoneNumberDetection.staticwebassets.runtime.json
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\PhoneNumberDetection.exe
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\PhoneNumberDetection.deps.json
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\PhoneNumberDetection.runtimeconfig.json
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\PhoneNumberDetection.dll
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\PhoneNumberDetection.pdb
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\xunit.abstractions.dll
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\xunit.assert.dll
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\xunit.core.dll
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\bin\Debug\net6.0\xunit.execution.dotnet.dll
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\PhoneNumberDetection.csproj.AssemblyReference.cache
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\PhoneNumberDetection.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\PhoneNumberDetection.AssemblyInfoInputs.cache
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\PhoneNumberDetection.AssemblyInfo.cs
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\PhoneNumberDetection.csproj.CoreCompileInputs.cache
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\PhoneNumberDetection.MvcApplicationPartsAssemblyInfo.cache
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\PhoneNumberDetection.RazorAssemblyInfo.cache
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\PhoneNumberDetection.RazorAssemblyInfo.cs
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\PhoneNumberDetection.sourcelink.json
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\staticwebassets.build.json
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\staticwebassets.development.json
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\staticwebassets\msbuild.PhoneNumberDetection.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\staticwebassets\msbuild.build.PhoneNumberDetection.props
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PhoneNumberDetection.props
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PhoneNumberDetection.props
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\staticwebassets.pack.json
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\scopedcss\bundle\PhoneNumberDetection.styles.css
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\scopedcss\projectbundle\PhoneNumberDetection.bundle.scp.css
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\PhoneNum.BCEA6C03.Up2Date
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\PhoneNumberDetection.dll
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\refint\PhoneNumberDetection.dll
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\PhoneNumberDetection.pdb
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\PhoneNumberDetection.genruntimeconfig.cache
+D:\DOT NET CORE\PhoneNumberDetection\PhoneNumberDetection\obj\Debug\net6.0\ref\PhoneNumberDetection.dll

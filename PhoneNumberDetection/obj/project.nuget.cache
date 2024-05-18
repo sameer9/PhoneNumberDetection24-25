@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "IfVbNZY+Lc3DfDDZs3t4JqzC4bf1Lq6gyjki9X/OYCR9OEqxYRSIN22naabGWE5O3WFnsUNKcWj4cIeiVQ9NXg==",
+  "success": true,
+  "projectFilePath": "D:\\DOT NET CORE\\PhoneNumberDetection\\PhoneNumberDetection\\PhoneNumberDetection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samee\\.nuget\\packages\\xunit\\2.7.1\\xunit.2.7.1.nupkg.sha512",
+    "C:\\Users\\samee\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\samee\\.nuget\\packages\\xunit.analyzers\\1.12.0\\xunit.analyzers.1.12.0.nupkg.sha512",
+    "C:\\Users\\samee\\.nuget\\packages\\xunit.assert\\2.7.1\\xunit.assert.2.7.1.nupkg.sha512",
+    "C:\\Users\\samee\\.nuget\\packages\\xunit.core\\2.7.1\\xunit.core.2.7.1.nupkg.sha512",
+    "C:\\Users\\samee\\.nuget\\packages\\xunit.extensibility.core\\2.7.1\\xunit.extensibility.core.2.7.1.nupkg.sha512",
+    "C:\\Users\\samee\\.nuget\\packages\\xunit.extensibility.execution\\2.7.1\\xunit.extensibility.execution.2.7.1.nupkg.sha512",
+    "C:\\Users\\samee\\.nuget\\packages\\xunit.runner.visualstudio\\2.5.8\\xunit.runner.visualstudio.2.5.8.nupkg.sha512"
+  ],
+  "logs": []
+}
